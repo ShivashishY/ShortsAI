@@ -44,7 +44,7 @@ The setup script automatically installs all dependencies (Python, Node.js, FFmpe
 
 <div align="center">
 
-| Dark Mode | Light Mode |
+| Screenshot 1 | Screenshot 2 |
 |-----------|------------|
 | ![Screenshot 1](frontend/screenshot1.png) | ![Screenshot 2](frontend/screenshot2.png) |
 
@@ -912,7 +912,7 @@ LOG_LEVEL=DEBUG uvicorn server:app --reload
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+I welcome contributions! Please see my [Contributing Guide](CONTRIBUTING.md) for details.
 
 **Quick steps:**
 1. Fork the repository
@@ -935,9 +935,9 @@ This project is licensed under the MIT License
 
 **Made with ❤️ for content creators**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/youtube-to-shorts-ai?style=social)](https://github.com/yourusername/youtube-to-shorts-ai)
+[![GitHub Stars](https://img.shields.io/github/stars/ShivashishY/ShortsAI?style=social)](https://github.com/ShivashishY/ShortsAI)
 
-[Report Bug](https://github.com/yourusername/youtube-to-shorts-ai/issues) · [Request Feature](https://github.com/yourusername/youtube-to-shorts-ai/issues) · [Documentation](https://github.com/yourusername/youtube-to-shorts-ai/wiki)
+[Report Bug](https://github.com/ShivashishY/ShortsAI/issues) · [Request Feature](https://github.com/ShivashishY/ShortsAI/issues) · [Documentation](https://github.com/ShivashishY/ShortsAI/issues)
 
 </div>
 
